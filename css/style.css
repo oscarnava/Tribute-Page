@@ -1,0 +1,37 @@
+body {
+    padding: 1em 2em;
+}
+
+#image {
+    display: block;
+    width: 50%;
+    max-width: 50%;
+    margin-left: 25%;
+    border: gray solid 5px;
+    border-bottom-color: black;
+}
+
+#tribute-link {
+    float: right;
+    margin: 2em;
+}
+
+#title {
+    text-align: center;
+}
+
+#img-caption {
+    display: inline-block;
+    width: 50%;
+    font-size: 18px;
+    margin: -10px 25% 10px 25%;
+    text-align: center;
+    color: yellow;
+    background: black;
+    padding-top: 5px ;
+    padding-bottom: 5px;
+    border-top-color: transparent;
+    border-right: gray solid 5px;
+    border-left: gray solid 5px;
+    border-bottom: gray solid 5px;
+}
